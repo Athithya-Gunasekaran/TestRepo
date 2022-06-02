@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[RAJASEKAR]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="206442" started-at="2020-06-13T17:23:04Z" finished-at="2020-06-13T17:26:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="206442" started-at="2020-06-13T17:23:04Z" finished-at="2020-06-13T17:26:30Z">
+      <class name="google_testcase.testclass">
+        <test-method status="PASS" signature="setup()[pri:0, instance:google_testcase.testclass@3d680b5a]" name="setup" is-config="true" duration-ms="163341" started-at="2020-06-13T17:23:04Z" finished-at="2020-06-13T17:25:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="headerlinks()[pri:0, instance:google_testcase.testclass@3d680b5a]" name="headerlinks" duration-ms="43064" started-at="2020-06-13T17:25:47Z" finished-at="2020-06-13T17:26:30Z">
+          <reporter-output>
+            <line>
+              <![CDATA[RAJASEKAR]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- headerlinks -->
+      </class> <!-- google_testcase.testclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
